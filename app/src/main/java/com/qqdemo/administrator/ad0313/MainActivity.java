@@ -35,7 +35,7 @@ import com.baidu.mapapi.search.poi.PoiSearch;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity{
-    public static final String TAG = "MainActivityAAAAAAAAAA";
+    public static final String TAG = "MainActivity";
 
     private MapView mMapView;
 
